@@ -12,10 +12,8 @@ function config($key = '')
         'site_url' => '',
         'pretty_uri' => false,
         'nav_menu' => [
-            '' => 'Home',
-            'about-us' => 'About Us',
-            'products' => 'Products',
-            'contact' => 'Contact',
+            'about-us' => 'Tentang Saya',
+            'contact' => 'Kontak',
         ],
         'template_path' => 'template',
         'content_path' => 'content',
