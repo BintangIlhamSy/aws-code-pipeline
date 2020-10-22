@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Portofolio Bintang Ilham Syahputra',
         'site_url' => '',
         'pretty_uri' => false,
         'nav_menu' => [
